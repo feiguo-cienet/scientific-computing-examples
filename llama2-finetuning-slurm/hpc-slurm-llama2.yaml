@@ -209,6 +209,7 @@ deployment_groups:
               - torchaudio 
               - torchvision
               - nvitop
+              - llama-recipes
           EOLL
 
           source $CONDA_BASE/bin/activate base
